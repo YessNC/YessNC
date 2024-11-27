@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Yessie | @YessNC
+#Introduction
+- 👋 Hi, I’m Yessie | @YessNC. I excel in collaborative
+environments, solving technical challenges and
+communication conflicts effectively.
+#Interests
 - 👀 I’m interested in web development, programming and creating interactive applications.
 - 🌱 I’m currently learning JS, HTML, CSS and improving my skills in full-stack development.
+#Contact
 - 💞️ I’m looking to collaborate on innovative web projects, open-source contributions, and anything that involves coding and crativity.
 - 📫 How to reach me: yessie_neira@icloud.com | linkedin.com/in/yessie-neira/
 - 😄 Pronouns: She / Her
+#Curious Fact 
 - ⚡ Fun fact: I speak Spanish. Did you know a group of kangaroos is called a mob? 
 
 <!---
